@@ -23,3 +23,4 @@ for name, child in [("NW", root.NW), ("NE", root.NE), ("SW", root.SW), ("SE", ro
         print(f"{name}: subdivided = {child.divided}, body = {child.body}")
     else:
         print(f"{name}: HİÇ OLUŞMAMIŞ")
+        #there is a bug
